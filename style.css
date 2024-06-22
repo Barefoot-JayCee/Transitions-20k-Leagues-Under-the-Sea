@@ -41,7 +41,7 @@
     align-items: center;
     height: 100%;
     padding: 0 2rem 0 5rem;
-    background: url('https://content.codecademy.com/courses/freelance-1/unit-6/nav_background.png') center center repeat;
+    background: url("./images/nav_background.webp") center center repeat;
     font-family: var(--secondary-font);
     font-size: 18px;
     line-height: 2.2;
